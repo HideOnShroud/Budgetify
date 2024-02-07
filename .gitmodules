@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/HideOnShroud/budgetify-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/HideOnShroud/budgetify-server.git
